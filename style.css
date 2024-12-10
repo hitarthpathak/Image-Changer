@@ -10,7 +10,6 @@ body {
     display: flex;
     align-items: start;
     justify-content: center;
-    margin-top: 10vh;
 }
 
 .main-box {
@@ -20,6 +19,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-top: 10vh;
 }
 
 .left-box {
